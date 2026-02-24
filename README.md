@@ -34,9 +34,6 @@ This project leverages the Global Superstore dataset to build an interactive Pow
 - Optimize for mobile view to support executives on the go.
 - Integrate with real-time data sources for live monitoring.
 
-##📷 Dashboard Preview
-(Insert screenshots of your dashboard here for better visualization)
-
 ##🧑‍💻 Author
 Developed by- Bhimashankar Salunke
 Passionate about Data Analytics, Business Intelligence, and Storytelling with Power BI.
